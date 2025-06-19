@@ -1,0 +1,4 @@
+speechrecognition
+edge-tts
+pygame
+requests
